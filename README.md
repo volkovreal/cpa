@@ -2,3 +2,5 @@
 
 Facebook Statistics
 
+![alt-текст](https://github.com/volkovreal/cpa/blob/master/facebook_1.png "Facebook_1")
+
